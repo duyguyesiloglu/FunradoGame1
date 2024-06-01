@@ -23,8 +23,10 @@ You can access the project repository [here](https://github.com/duyguyesiloglu/F
 
 ## Screenshot
 
-![Game Screenshot](<img width="358" alt="Ekran Resmi 2024-05-31 19 07 33" src="https://github.com/duyguyesiloglu/FunradoGame1/assets/110973866/2e93fa12-29f1-42a3-bee4-f7e7368af5c3">)
+
 (<img width="354" alt="Ekran Resmi 2024-05-31 19 07 11" src="https://github.com/duyguyesiloglu/FunradoGame1/assets/110973866/e8640362-3bbe-4b78-9bbd-ba5ecdabfcee">)
+<img width="358" alt="Ekran Resmi 2024-05-31 19 07 33" src="https://github.com/duyguyesiloglu/FunradoGame1/assets/110973866/e29d7de5-dc01-41ce-88c0-2beac6e4ab43">
+<img width="359" alt="Ekran Resmi 2024-05-31 17 59 33" src="https://github.com/duyguyesiloglu/FunradoGame1/assets/110973866/3c0a953b-0661-467d-b394-dba2d0676763">
 
 
 ## Installation
